@@ -36,31 +36,61 @@
             },
             {
                 "id":2,
-                "text" : "8 + 2(2 + 2)",
+                "text" : "Which is the smallest?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
+                        "text": "-1",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
+                        "text": "-1/2",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
+                        "text": "0",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "24",
+                        "text": "3",
                         "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "text" : "Simplify: (4 – 5) – (13 – 18 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "-1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "-2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2",
+                        "isCorrect": true
                     }
                 ]
             }
@@ -74,90 +104,90 @@
         "questions": [
             {
                 "id":1,
-                "text" : "8 + 2(2 + 2)",
+                "text" : "Ozone hole refers to",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
-                        "isCorrect": true
+                        "text": "hole in ozone layer",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
+                        "text": "decrease in the ozone layer in troposphere",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
-                        "isCorrect": false
+                        "text": "decrease in thickness of ozone layer in stratosphere",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "24",
+                        "text": "increase in the thickness of ozone layer in troposphere",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id":2,
-                "text" : "8 + 2(2 + 2)",
+                "text" : "Plants receive their nutrients mainly from",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
-                        "isCorrect": true
+                        "text": "chlorophyll",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
+                        "text": "atmosphere",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
+                        "text": "light",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "24",
-                        "isCorrect": false
+                        "text": "soil",
+                        "isCorrect": true
                     }
                 ]
             },
             {
                 "id":3,
-                "text" : "8 + 2(2 + 2)",
+                "text" : "Most highly intelligent mammals are",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
-                        "isCorrect": true
+                        "text": "whales",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
-                        "isCorrect": false
+                        "text": "dolphins",
+                        "isCorrect": true
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
+                        "text": "elephants",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "24",
+                        "text": "kangaroos",
                         "isCorrect": false
                     }
                 ]
@@ -172,90 +202,90 @@
         "questions": [
             {
                 "id":1,
-                "text" : "8 + 2(2 + 2)",
+                "text" : "Which acid is described as HOOCCOOH?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
+                        "text": "Oxalic Acid",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
+                        "text": "Acetic Acid",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
+                        "text": "Carbonic Acid",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "24",
+                        "text": "Citric Acid",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id":2,
-                "text" : "8 + 2(2 + 2)",
+                "text" : "What is the fourth state of matter called?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
-                        "isCorrect": true
+                        "text": "Solid",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
+                        "text": "Liquid",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
+                        "text": "Gas",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "24",
-                        "isCorrect": false
+                        "text": "Plasma",
+                        "isCorrect": true
                     }
                 ]
             },
             {
                 "id":3,
-                "text" : "8 + 2(2 + 2)",
+                "text" : "Which of the following metal has an ore named as ‘Cassiterite’?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
-                        "isCorrect": true
+                        "text": "Bismuth",
+                        "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
+                        "text": "Antimony",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
-                        "isCorrect": false
+                        "text": "Tin",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "24",
+                        "text": "Uranium",
                         "isCorrect": false
                     }
                 ]
